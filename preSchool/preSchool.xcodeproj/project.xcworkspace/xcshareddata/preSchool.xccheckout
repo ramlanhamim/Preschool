@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60E531EF-570D-4A60-8690-D1BAD36CF95D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A334B87212066E9EDD74602978F85A508D5B8FD5</key>
+		<string>https://github.com/ramlanhamim/Preschool.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A334B87212066E9EDD74602978F85A508D5B8FD5</key>
+		<string>Preschool/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ramlanhamim/Preschool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A334B87212066E9EDD74602978F85A508D5B8FD5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A334B87212066E9EDD74602978F85A508D5B8FD5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Preschool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
